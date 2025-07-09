@@ -1,3 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="0" height="0" viewBox="0 0 32 29" fill="none">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+viewBox="0 0 300 300" style="enable-background:new 0 0 300 300;"
+xml:space="preserve" id="rd-icon-spotter">  
   <path d="M0 29L12.8547 5.1594L16 0L19.1453 5.1594L32 29H25.5271L23.5214 25.2105H8.52422L6.51852 29H0ZM10.4843 21.2003H21.5157L18.0969 14.394C17.1852 12.5912 16.0456 10.1998 16 10.1262C15.9544 10.1998 14.8148 12.5912 13.9031 14.394L10.4843 21.2003Z" fill="#00063A"/>
 </svg>
